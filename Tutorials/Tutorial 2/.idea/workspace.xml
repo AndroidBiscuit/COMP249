@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72836584-b48d-4cc9-870c-5fb9c866d3c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hvlbocsYgV1rCs2Gl2rEUlfW6x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72836584-b48d-4cc9-870c-5fb9c866d3c9" name="Default Changelist" comment="" />
+      <created>1600899520573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600899520573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="178" key="#Project_Structure" timestamp="1600899544735">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600899544735" />
+    <state x="-1181" y="261" key="FileChooserDialogImpl" timestamp="1601319063603">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1181" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601319063603" />
+    <state x="-1578" y="140" key="new project wizard" timestamp="1601319066041">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1578" y="140" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601319066041" />
+  </component>
+</project>
